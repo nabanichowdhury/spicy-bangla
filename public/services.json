@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "MOHA VHOJ",
+    "price": "250",
+    "description": "All the bengali traditional lunch dishes are included",
+    "img": "https://i.ibb.co/7JrtbRS/plater1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ilish Macher Paturi",
+    "price": "300",
+    "description": "Hilsha fish baked with mustard seed paste and chilli paste",
+    "img": "https://i.ibb.co/wr5VWQh/ilishpaturi.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Biriyani",
+    "price": "340",
+    "description": "Special bengali chicken biriyani",
+    "img": "https://i.ibb.co/JRNNGyz/bengali-Biriyani.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tele vaja",
+    "price": "120",
+    "description": "Kind of pakora but with a bengali twist",
+    "img": "https://i.ibb.co/Zh342S1/Televaja.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kosha Murgi",
+    "price": "190",
+    "description": "Cooked chicken with lots of bengali spices",
+    "img": "https://i.ibb.co/CW4M4p8/Kosha-murgi.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Khichuri",
+    "price": "160",
+    "description": "A dish where rice and lentil are mixed to form a staple food",
+    "img": "https://i.ibb.co/L89fJqm/Khichuri.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rosogolla",
+    "price": "100",
+    "description": "Famous Bengali sweets",
+    "img": "https://i.ibb.co/2ttLLXf/rosogolla.jpg"
+  }
+]
