@@ -1,6 +1,8 @@
-input {
+.register input:not([type="checkbox"]) {
   width: 25rem;
-  height: 3rem;
+  height: 2.5rem;
+  border: 1px solid lightgray;
+  border-radius: 3px;
   margin-top: 7px;
-  font-size: 18px;
+  font-size: 14px;
 }
